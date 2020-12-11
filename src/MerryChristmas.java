@@ -4,6 +4,11 @@ public class MerryChristmas {
         System.out.println("|*   *   *   *   *   * |");
         System.out.println("|  *   *   *   *   *   |");
         System.out.println("|*  Merry Christmas! * |");
+        System.out.println("|          *           |");
+        System.out.println("|         * *          |");
+        System.out.println("|        * * *         |");
+        System.out.println("|      * * * * *       |");
+        System.out.println("|          *           |");
         System.out.println("|  *   *   *   *   *   |");
         System.out.println("|*   *   *   *   *   * |");
         System.out.println("------------------------");
